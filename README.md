@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nalexopo
-- 👀 I’m interested in everything that touches or creates the metal and low level web 
+- 👀 I’m interested in everything that touches or creates the metal and low level communications 
 - 🌱 I’m currently learning C++ / design patterns
 - 💞️ I’m looking to collaborate on RISCV related projects
 
